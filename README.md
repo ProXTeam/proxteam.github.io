@@ -1,2 +1,2 @@
-# proxteam.github.io
-site
+# AppLink
+* [AnimeApp](https://proxteam.github.io/anime/)
