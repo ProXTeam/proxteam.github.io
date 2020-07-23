@@ -1,3 +1,5 @@
 # AppLink
-* [AnimeApp](https://proxteam.github.io/anime/)
-* [RingtoneApp](https://proxteam.github.io/ringtone)
+* [AnimeTV](https://proxteam.github.io/anime/)
+* [Cool Ringtones - Mp3 Cutter](https://proxteam.github.io/ringtone)
+* [Dope Wallpapers HD & 4K](https://apps.apple.com/us/app/dope-wallpapers-hd-4k/id1513814348)
+* [Facer Watch Face - Gallery App](https://apps.apple.com/us/app/facer-watch-face-gallery-app/id1515220314)
